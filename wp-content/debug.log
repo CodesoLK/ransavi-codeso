@@ -1,0 +1,983 @@
+[11-May-2020 20:46:00 UTC] PHP Notice:  Undefined index: discord_link in /home/ransavi/public_html/wp-content/plugins/fusion-core/includes/widget/class-fusion-widget-social-links.php on line 615
+[11-May-2020 20:46:00 UTC] PHP Notice:  Undefined index: mixer_link in /home/ransavi/public_html/wp-content/plugins/fusion-core/includes/widget/class-fusion-widget-social-links.php on line 615
+[11-May-2020 20:46:00 UTC] PHP Notice:  Undefined index: twitch_link in /home/ransavi/public_html/wp-content/plugins/fusion-core/includes/widget/class-fusion-widget-social-links.php on line 615
+[11-May-2020 20:46:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Fusion_Dynamic_Data_Callbacks::fusion_get_object_title() in /home/ransavi/public_html/wp-content/themes/Avada/includes/lib/inc/class-fusion-helper.php:297
+Stack trace:
+#0 /home/ransavi/public_html/wp-content/themes/Avada/includes/custom-functions.php(144): Fusion_Helper::fusion_get_page_title_bar_contents(5)
+#1 /home/ransavi/public_html/wp-content/themes/Avada/header.php(58): avada_current_page_title_bar(5)
+#2 /home/ransavi/public_html/wp-includes/template.php(723): require_once('/home/ransavi/p...')
+#3 /home/ransavi/public_html/wp-includes/template.php(672): load_template('/home/ransavi/p...', true)
+#4 /home/ransavi/public_html/wp-includes/general-template.php(41): locate_template(Array, true)
+#5 /home/ransavi/public_html/wp-content/themes/Avada/100-width.php(15): get_header()
+#6 /home/ransavi/public_html/wp-includes/template-loader.php(106): include('/home/ransavi/p...')
+#7 /home/ransavi/public_html/wp-blog-header.php(19): require_once('/home/ransavi/p...')
+#8 /home/ in /home/ransavi/public_html/wp-content/themes/Avada/includes/lib/inc/class-fusion-helper.php on line 297
+[12-May-2020 09:54:22 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[12-May-2020 09:54:22 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[12-May-2020 09:54:22 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[12-May-2020 09:54:22 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[12-May-2020 09:54:22 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[12-May-2020 09:54:22 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[12-May-2020 09:54:22 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[12-May-2020 09:54:22 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 08:16:15 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 08:16:15 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 08:16:15 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 08:16:16 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 08:16:16 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 08:16:16 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 08:16:16 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 08:16:16 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 08:17:11 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 08:17:11 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 08:17:11 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 08:17:11 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 08:17:11 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 08:17:11 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 08:17:11 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 08:17:11 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:24 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:24 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:24 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:24 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:24 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:24 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:24 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:24 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:31 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:31 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:31 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:32 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:32 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:32 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:32 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:32 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:36 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:36 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:36 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:36 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:36 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:36 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:36 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:36 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:37 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:37 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:37 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:37 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:37 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:37 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:37 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:37 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:45 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:45 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:45 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:45 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:45 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:45 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:45 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[14-May-2020 10:39:45 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:22:17 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:22:17 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:22:17 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:22:17 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:22:17 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:22:17 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:22:17 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:22:17 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:22:18 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:22:19 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:22:19 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:22:19 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:22:19 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:22:19 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:22:19 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:22:19 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:22:19 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:22:19 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:25:21 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:25:21 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:25:21 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:25:21 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:25:21 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:25:21 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:25:21 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:25:21 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:25:21 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:25:21 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:25:21 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:25:21 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:25:21 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:25:22 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:25:22 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:25:22 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[16-May-2020 10:25:22 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[18-May-2020 07:27:24 UTC] PHP Warning:  mysqli_real_connect(): MySQL server has gone away in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 07:27:24 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=3718 in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 07:27:24 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 07:27:24 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 07:32:58 UTC] PHP Warning:  Error while sending QUERY packet. PID=3718 in /home/ransavi/public_html/wp-includes/wp-db.php on line 2024
+[18-May-2020 07:33:07 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 07:33:10 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 09:54:17 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 09:54:17 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 09:54:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 09:54:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 09:54:20 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 09:54:20 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 09:54:21 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 09:54:21 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 09:54:22 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 09:54:22 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 09:54:25 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 09:54:26 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 09:54:27 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 09:54:30 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 09:54:39 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 09:54:39 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 09:54:40 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 09:54:40 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 09:54:42 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 09:54:42 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 09:54:50 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 09:56:02 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 10:03:36 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 10:04:53 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 10:05:12 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 10:06:21 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 10:06:27 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 10:06:28 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 10:06:35 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 10:06:36 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 10:06:41 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 10:08:27 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 10:08:28 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 10:10:11 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 10:10:12 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 10:11:29 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 10:11:30 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 10:28:34 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 10:34:45 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 10:34:46 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 10:56:02 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 10:56:03 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 10:58:15 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 10:58:16 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 11:03:59 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[18-May-2020 11:04:01 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[19-May-2020 08:29:26 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:29:27 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:29:27 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:29:27 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:29:27 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:29:27 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:29:27 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:29:27 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:29:27 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:30:02 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:30:03 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:30:03 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:30:03 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:30:03 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:30:03 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:30:03 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:30:03 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:30:03 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:30:50 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:30:50 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:30:50 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:30:50 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:30:50 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:30:50 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:30:50 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:30:50 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:30:50 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:31:22 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:31:23 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:31:23 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:31:23 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:31:23 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:31:23 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:31:23 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:31:23 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:31:23 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:31:23 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:32:35 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:32:35 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:32:37 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:32:37 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:32:37 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:33:04 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:33:04 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:33:04 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:33:04 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:33:04 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:33:04 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:33:05 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:33:07 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:33:07 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:33:07 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:33:07 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:33:07 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:33:08 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:35:59 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:35:59 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:35:59 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:35:59 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:35:59 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:35:59 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:35:59 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:35:59 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:35:59 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:04 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:04 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:04 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:04 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:04 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:04 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:04 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:04 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:04 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:04 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:04 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:04 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:04 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:04 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:13 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:13 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:13 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:13 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:14 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:43 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:43 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:43 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:43 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:43 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:43 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:43 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:43 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:46 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:46 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:46 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:46 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:46 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:46 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:46 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:46 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:36:47 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:37:07 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:37:07 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:37:07 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:37:07 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:37:07 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:37:08 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:37:08 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:37:08 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:37:08 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:37:19 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:37:19 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:37:19 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:37:19 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:37:19 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:37:19 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:37:19 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:37:19 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:37:19 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:38:15 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:38:15 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:38:15 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:38:15 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:38:15 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:38:15 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:38:15 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[19-May-2020 08:38:15 UTC] PHP Notice:  Undefined variable: items_in_cart in /home/ransavi/public_html/wp-content/plugins/fusion-builder/front-end/class-fusion-builder-front.php on line 1479
+[24-May-2020 18:05:59 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ransavi/public_html/wp-includes/update.php on line 162
+[24-May-2020 18:05:59 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ransavi/public_html/wp-includes/update.php on line 388
+[24-May-2020 18:05:59 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ransavi/public_html/wp-includes/update.php on line 578
+[25-May-2020 08:23:13 UTC] Performing upgrade from  to 3.8.9
+[25-May-2020 08:23:13 UTC] setting sglobal
+[25-May-2020 08:23:13 UTC] Could not check system for sql lock support. wp_remote_request failed. Error: cURL error 35: SSL received a record that exceeded the maximum permissible length.
+[25-May-2020 18:01:28 UTC] PHP Warning:  Use of undefined constant self - assumed 'self' (this will throw an Error in a future version of PHP) in /home/ransavi/public_html/wp-content/plugins/duplicator-pro.3.8.9/ctrls/class.web.services.php on line 3282
+[10-Jun-2020 05:48:34 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[10-Jun-2020 05:48:36 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[10-Jun-2020 05:48:46 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[10-Jun-2020 05:48:47 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Connection refused in /home/ransavi/public_html/wp-includes/wp-db.php on line 1626
+[22-Jan-2021 06:23:50 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:23:50 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:23:51 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:23:51 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:23:53 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:23:53 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:23:54 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:23:54 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:23:54 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:23:54 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:23:54 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:23:54 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:23:54 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:23:54 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:23:54 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:24:02 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:24:02 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:24:02 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:24:02 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:24:06 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:24:06 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:24:12 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:24:12 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:24:33 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:24:33 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:24:53 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:24:53 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:26:21 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:26:21 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:26:22 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:26:22 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:26:28 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:26:28 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:26:30 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:26:30 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:26:38 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:26:38 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:26:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:26:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:26:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:26:53 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:26:53 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:26:53 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:26:53 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:26:54 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:26:54 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:26:54 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:26:54 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:26:55 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:26:55 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:27:54 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[22-Jan-2021 06:27:54 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[05-Feb-2021 20:17:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[05-Feb-2021 20:17:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[05-Feb-2021 20:17:50 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[05-Feb-2021 20:17:50 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[05-Feb-2021 20:17:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[05-Feb-2021 20:17:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[05-Feb-2021 20:17:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[05-Feb-2021 20:17:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[05-Feb-2021 20:17:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[05-Feb-2021 20:17:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[05-Feb-2021 20:17:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[05-Feb-2021 20:17:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[05-Feb-2021 20:17:56 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[05-Feb-2021 20:17:56 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[05-Feb-2021 20:17:59 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[05-Feb-2021 20:17:59 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[05-Feb-2021 20:18:01 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[05-Feb-2021 20:18:01 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[05-Feb-2021 20:18:02 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[05-Feb-2021 20:18:02 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[05-Feb-2021 20:18:10 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[05-Feb-2021 20:18:10 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[05-Feb-2021 20:18:31 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[05-Feb-2021 20:18:31 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[05-Feb-2021 20:18:51 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[05-Feb-2021 20:18:51 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:08:13 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:08:13 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:08:14 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:08:14 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:08:16 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:08:16 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:08:16 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:08:16 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:08:16 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:08:16 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:08:16 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:08:16 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:08:17 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:08:25 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:08:25 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:08:28 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:08:28 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:08:29 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:08:29 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:08:31 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:08:31 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:08:34 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:08:34 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:08:55 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:08:55 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:09:15 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:09:15 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:13:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:13:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:13:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:13:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:13:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:13:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:13:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:13:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:13:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:13:51 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:13:51 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:13:51 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:13:51 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:13:51 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:13:51 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:13:51 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:13:51 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:13:51 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:13:53 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:13:53 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:13:53 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:13:53 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:13:53 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:13:53 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:13:53 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:13:53 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:13:53 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:15:19 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:15:19 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:15:19 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:15:19 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:15:19 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:15:19 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:15:19 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:15:19 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:15:19 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:17:07 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:17:07 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:17:09 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:17:09 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:17:17 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:17:17 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:17:19 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:17:19 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:17:28 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:17:28 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:17:30 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:17:30 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:17:33 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:17:55 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:17:55 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:17:56 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:17:56 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:17:57 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:17:57 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:17:58 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:17:58 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:18:25 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:18:25 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:18:26 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:18:47 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:18:47 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:18:58 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:18:58 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:18:58 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:18:58 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:19:07 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:19:07 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:19:09 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:19:09 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:19:09 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:21:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:21:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:21:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:21:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:21:06 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:21:06 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:21:07 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /home/ransavi/public_html/wp-includes/class-wp-list-util.php on line 153
+[16-Feb-2021 11:21:07 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /home/ransavi/public_html/wp-includes/class-wp-list-util.php on line 153
+[16-Feb-2021 11:21:07 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:21:21 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:21:21 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:21:21 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:21:21 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:21:22 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /home/ransavi/public_html/wp-includes/class-wp-list-util.php on line 153
+[16-Feb-2021 11:21:22 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /home/ransavi/public_html/wp-includes/class-wp-list-util.php on line 153
+[16-Feb-2021 11:21:22 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:21:22 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:21:23 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /home/ransavi/public_html/wp-includes/class-wp-list-util.php on line 153
+[16-Feb-2021 11:21:23 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /home/ransavi/public_html/wp-includes/class-wp-list-util.php on line 153
+[16-Feb-2021 11:21:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:21:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:21:25 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /home/ransavi/public_html/wp-includes/class-wp-list-util.php on line 153
+[16-Feb-2021 11:21:25 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /home/ransavi/public_html/wp-includes/class-wp-list-util.php on line 153
+[16-Feb-2021 11:22:16 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:22:16 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:23:17 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:23:17 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:24:19 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:24:19 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:24:21 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:24:21 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:24:25 UTC] PHP Warning:  Creating default object from empty value in /home/ransavi/public_html/wp-content/plugins/wp-smush-pro/core/external/dash-notice/wpmudev-dash-notification.php on line 748
+[16-Feb-2021 11:24:26 UTC] PHP Warning:  Creating default object from empty value in /home/ransavi/public_html/wp-content/plugins/wp-smush-pro/core/external/dash-notice/wpmudev-dash-notification.php on line 748
+[16-Feb-2021 11:24:33 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:24:33 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:24:33 UTC] PHP Warning:  Creating default object from empty value in /home/ransavi/public_html/wp-content/plugins/wp-smush-pro/core/external/dash-notice/wpmudev-dash-notification.php on line 748
+[16-Feb-2021 11:24:33 UTC] PHP Warning:  Creating default object from empty value in /home/ransavi/public_html/wp-content/plugins/wp-smush-pro/core/external/dash-notice/wpmudev-dash-notification.php on line 748
+[16-Feb-2021 11:24:33 UTC] PHP Warning:  Creating default object from empty value in /home/ransavi/public_html/wp-content/plugins/wp-smush-pro/core/external/dash-notice/wpmudev-dash-notification.php on line 748
+[16-Feb-2021 11:24:33 UTC] PHP Warning:  Creating default object from empty value in /home/ransavi/public_html/wp-content/plugins/wp-smush-pro/core/external/dash-notice/wpmudev-dash-notification.php on line 748
+[16-Feb-2021 11:24:36 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:24:36 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:24:36 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:24:45 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:24:45 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:24:45 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:24:46 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:24:46 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:24:56 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:24:56 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:24:58 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:24:58 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:24:58 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:24:58 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:02 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:02 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:03 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:03 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:09 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:09 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:10 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:10 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:12 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:12 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:14 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:14 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:14 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:14 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:19 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:19 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:31 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:31 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:31 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:31 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:34 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:34 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:37 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:37 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:43 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:43 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:45 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:45 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:46 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:46 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:49 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:25:49 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:26:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:26:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:26:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:45:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:45:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:45:03 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:45:04 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:45:04 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:26 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:26 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:26 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:26 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:29 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:29 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:32 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:32 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:32 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:40 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:40 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:40 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:40 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:42 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:42 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:46 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:46 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:46 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:46 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:50 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:50 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:51 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:51 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:53 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:53 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:56 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:55:56 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:56:01 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:56:01 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:56:06 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:56:06 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:56:12 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:56:12 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:56:13 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:56:13 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:56:14 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:56:14 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:56:18 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:56:18 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:56:23 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:56:23 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:56:25 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:56:25 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:56:27 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:56:27 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:56:29 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:56:29 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:56:30 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:56:30 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:56:31 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:56:31 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:56:35 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 11:56:35 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:16 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:16 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:21 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:21 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:23 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:23 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:25 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:25 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:28 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:28 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:28 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:28 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:30 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:30 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:33 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:33 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:34 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:34 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:36 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:36 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:38 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:38 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:50 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:50 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:50 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:50 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:55 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:26:55 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:27:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:27:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:27:01 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:27:01 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:27:07 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:27:07 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:27:10 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:27:10 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:27:13 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:27:13 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:27:14 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:27:14 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:27:15 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:27:15 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:27:17 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:27:17 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:27:19 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[16-Feb-2021 12:27:19 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:47:53 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:47:53 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:48:37 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:48:37 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:48:37 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:48:37 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:48:37 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:48:37 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:48:37 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:48:37 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:48:37 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:48:37 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:48:38 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:48:38 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:48:38 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:48:38 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:48:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:48:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:48:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:48:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:48:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:48:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:48:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:48:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:48:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:48:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:48:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:48:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:53:14 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:53:14 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:53:15 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:53:15 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:53:15 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:53:15 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:53:15 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:53:15 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[17-Feb-2021 02:53:15 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[27-Feb-2021 21:38:17 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[27-Feb-2021 21:38:17 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[27-Feb-2021 21:38:17 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[27-Feb-2021 21:38:18 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[27-Feb-2021 21:38:18 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[27-Feb-2021 21:38:18 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[27-Feb-2021 21:38:18 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[27-Feb-2021 21:38:18 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[27-Feb-2021 21:38:18 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:04:56 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:04:56 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:05:03 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:05:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:05:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:05:26 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:05:26 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:05:26 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:05:26 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:05:26 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:05:26 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:06:04 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:06:04 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:06:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:06:40 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:06:40 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:06:43 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:06:43 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:06:43 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:06:43 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:06:46 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:06:46 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:06:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:06:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:06:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:06:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:06:50 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:06:50 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:06:54 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:06:54 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:06:56 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:06:56 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:06:59 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:06:59 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:06:59 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:06:59 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:03 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:03 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:12 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:12 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:16 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:16 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:17 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:17 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:23 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:23 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:27 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:27 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:29 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:29 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:35 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:35 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:40 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:40 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:41 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:47 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:47 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:53 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:53 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:53 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:53 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:59 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:59 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:59 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:07:59 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:08:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:08:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:08:07 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:08:07 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:08:10 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:08:10 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:08:12 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:08:12 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:08:13 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:08:13 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:12:36 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:12:36 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 03:12:36 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:40:22 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:40:22 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:40:22 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:40:22 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:40:22 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:40:22 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:40:22 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:40:22 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:40:22 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:40:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:40:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:40:53 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:41:25 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:41:25 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:41:27 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:41:27 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:41:27 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:41:27 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:41:49 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:41:49 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:41:51 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:42:58 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:42:58 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:44:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:44:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:44:58 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:44:58 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:45:08 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:45:08 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:45:16 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:45:16 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:45:47 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:45:47 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:46:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:46:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:47:54 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:47:54 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:49:57 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:49:57 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:51:57 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:51:57 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:53:57 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:53:57 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:55:57 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 09:55:57 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:03:49 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:03:49 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:05:49 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:05:49 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:06:53 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:06:53 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:07:53 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:07:53 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:09:55 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:09:55 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:11:58 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:11:58 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:13:57 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:13:57 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:15:57 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:15:57 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:27:47 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:27:47 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:29:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:29:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:31:22 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:31:22 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:33:22 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:33:22 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:35:23 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:35:23 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:37:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:37:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:39:25 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:39:25 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:41:28 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:41:28 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:47:06 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:47:06 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:49:07 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:49:07 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:51:08 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:51:08 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:53:11 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:53:11 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:55:09 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:55:09 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:57:10 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 10:57:10 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 11:27:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 11:27:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 11:29:26 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 11:29:26 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 11:30:29 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 11:30:29 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 11:31:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 11:31:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 11:32:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 11:32:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 11:33:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 11:33:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 11:34:25 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 11:34:25 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 11:36:27 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 11:36:27 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 11:38:26 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 11:38:26 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 11:40:31 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 11:40:31 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 11:42:27 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 11:42:27 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 13:22:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 13:22:05 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 13:24:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 13:24:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 13:26:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 13:26:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 13:28:02 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 13:28:02 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 13:30:35 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 13:30:35 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 13:30:36 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 13:30:36 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 13:30:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 13:30:39 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 13:30:42 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 13:30:42 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 13:30:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 13:30:44 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 13:30:46 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 13:30:46 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 13:30:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 13:30:48 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 13:30:57 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 13:30:57 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 13:31:18 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 13:31:18 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 13:31:38 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 13:31:38 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 13:32:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[01-Mar-2021 13:32:24 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[02-Mar-2021 02:47:02 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[02-Mar-2021 02:47:02 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[02-Mar-2021 02:47:03 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[02-Mar-2021 02:47:03 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[02-Mar-2021 02:47:03 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[02-Mar-2021 02:47:03 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[02-Mar-2021 02:47:03 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[02-Mar-2021 02:47:04 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[02-Mar-2021 02:47:04 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[02-Mar-2021 02:47:04 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[02-Mar-2021 02:47:04 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[02-Mar-2021 02:47:06 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[02-Mar-2021 02:47:06 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[02-Mar-2021 10:26:50 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[02-Mar-2021 10:26:50 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[02-Mar-2021 10:26:50 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[02-Mar-2021 10:26:51 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[02-Mar-2021 10:26:51 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[02-Mar-2021 10:26:51 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[02-Mar-2021 10:26:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[02-Mar-2021 10:26:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28
+[02-Mar-2021 10:26:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/ransavi/public_html/wp-content/plugins/projects-by-woothemes/projects-core-functions.php on line 28

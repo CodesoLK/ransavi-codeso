@@ -1,0 +1,12 @@
+2020-05-11T20:46:23+00:00 CRITICAL Uncaught Error: Call to undefined method Fusion_Dynamic_Data_Callbacks::fusion_get_object_title() in /home/ransavi/public_html/wp-content/themes/Avada/includes/lib/inc/class-fusion-helper.php:297
+Stack trace:
+#0 /home/ransavi/public_html/wp-content/themes/Avada/includes/custom-functions.php(144): Fusion_Helper::fusion_get_page_title_bar_contents(5)
+#1 /home/ransavi/public_html/wp-content/themes/Avada/header.php(58): avada_current_page_title_bar(5)
+#2 /home/ransavi/public_html/wp-includes/template.php(723): require_once('/home/ransavi/p...')
+#3 /home/ransavi/public_html/wp-includes/template.php(672): load_template('/home/ransavi/p...', true)
+#4 /home/ransavi/public_html/wp-includes/general-template.php(41): locate_template(Array, true)
+#5 /home/ransavi/public_html/wp-content/themes/Avada/100-width.php(15): get_header()
+#6 /home/ransavi/public_html/wp-includes/template-loader.php(106): include('/home/ransavi/p...')
+#7 /home/ransavi/public_html/wp-blog-header.php(19): require_once('/home/ransavi/p...')
+#8 /home/ in /home/ransavi/public_html/wp-content/themes/Avada/includes/lib/inc/class-fusion-helper.php on line 297
+
